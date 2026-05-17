@@ -1,6 +1,6 @@
 # 👋 Hola, soy Luis Javier Gómez
 
-Desarrollador en formación con foco en **C/C++** y **Salesforce Platform**.  
+Desarrollador en formación con foco en **C/C++** y **Salesforce Platform** y conocimientos en **Redes y Sistemas**  
 Busco oportunidades para crecer en desarrollo de software.
 
 ---

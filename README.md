@@ -43,12 +43,13 @@ Busco oportunidades para crecer en desarrollo de software.
 ## Git
 - [Inception](https://github.com/lgomez-h/inception)
 - [pipex](https://github.com/lgomez-h/pipex)
+
 ## 🎓 Formación en 42
 Me formé en [42 Urduliz Fundación Telefónica](https://www.42urduliz.com), una escuela de programación basada en aprendizaje **intensivo y práctico**.  
 Su pedagogía es **peer‑to‑peer** (entre compañeros), sin clases tradicionales ni profesores, y con un enfoque en proyectos reales.  
 Esto fomenta la **autonomía**, el **pensamiento crítico** y la **resolución de problemas**, además de habilidades clave como la colaboración y la revisión de código.
 
----
+🔗 **Ranking WURI 2026:** [ver noticia](https://www.42urduliz.com/actualidad/ranking-wuri-2026/)
 
 ## 🎯 Buscando
 Oportunidades **junior** en desarrollo de software.

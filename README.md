@@ -1,6 +1,6 @@
 # 👋 Hola, soy Javier Gómez
 
-Desarrollador en formación con foco en **C/C++** y **Salesforce Platform**.  
+Desarrollador en formación con foco en **C/C++** y **Salesforce Platform Foundation**.  
 Busco oportunidades para crecer en desarrollo de software.
 
 ---
@@ -20,26 +20,27 @@ Busco oportunidades para crecer en desarrollo de software.
 - **[libft](https://github.com/lgomez-h/libft)** – Librería base en C (reimplementación de funciones estándar).  
 - **[pipex](https://github.com/lgomez-h/pipex)** – Tuberías y procesos en Unix.  
 - **[so_long](https://github.com/lgomez-h/so_long)** – Juego 2D en C con gráficos simples.  
-- **[inception](https://github.com/lgomez-h/inception)** – Contenedores y orquestación con Docker.    
+- **[inception](https://github.com/lgomez-h/inception)** – Contenedores y orquestación con Docker.  
+- **[printf_42](https://github.com/lgomez-h/printf_42)** – Reimplementación de printf en C.  
 - **[cpp_08](https://github.com/lgomez-h/cpp_08)** – Módulo de C++ (STL, templates y excepciones).
 
 ---
 
 ## 🎓 Formación en 42
-Me formé en **42** **Urduliz** **Fundación Telefónica**, una escuela de programación basada en aprendizaje **intensivo y práctico**.  
+Me formé en [42 Urduliz Fundación Telefónica](https://www.42urduliz.com), una escuela de programación basada en aprendizaje **intensivo y práctico**.  
 Su pedagogía es **peer‑to‑peer** (entre compañeros), sin clases tradicionales ni profesores, y con un enfoque en proyectos reales.  
 Esto fomenta la **autonomía**, el **pensamiento crítico** y la **resolución de problemas**, además de habilidades clave como la colaboración y la revisión de código.
 
 ---
 
 ## 🎯 Buscando
-Oportunidades **junior** en desarrollo de software.
+Oportunidades **junior** o **prácticas** en desarrollo de software.
 
 ---
 
 ## 📫 Contacto
 - **Email:** ljaviergh77@gmail.com  
-- **LinkedIn:**
+- **LinkedIn:** *(pásame la URL exacta y lo agrego como link)*
 
 ---
 

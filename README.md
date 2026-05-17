@@ -1,36 +1,39 @@
 # 👋 Hola, soy Javier Gómez
 
-Soy desarrollador en formación con foco en **C/C++** y fundamentos de **Salesforce Platform**.  
-Actualmente busco oportunidades para seguir creciendo en desarrollo de software.
+Desarrollador en formación con foco en **C/C++** y **Salesforce Platform Foundation**.  
+Busco oportunidades para crecer en desarrollo de software.
 
 ---
 
-## 🧰 Stack principal
-- **Lenguajes:** C, C++
-- **Plataformas / Herramientas:** Salesforce Platform (Foundation), Git, Linux
+## 🧰 Skills (visual)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos destacados
-> Algunos proyectos del currículo de 42:
 
-- **Inception** – Contenedores y orquestación con Docker.  
-- **Born2BeRoot** – Administración de sistemas Linux y hardening.  
-- **NetPractice** – Redes, subnetting y configuración de routing.  
-- **Libft (42)** – Librería base en C (reimplementación de funciones estándar).
-
-*(Si quieres, puedo agregar links reales y una descripción breve de cada repo.)*
+- **[get_next_line](https://github.com/lgomez-h/get_next_line)** – Lectura de archivos línea por línea en C.  
+- **[libft](https://github.com/lgomez-h/libft)** – Librería base en C (reimplementación de funciones estándar).  
+- **[pipex](https://github.com/lgomez-h/pipex)** – Tuberías y procesos en Unix.  
+- **[so_long](https://github.com/lgomez-h/so_long)** – Juego 2D en C con gráficos simples.  
+- **[inception](https://github.com/lgomez-h/inception)** – Contenedores y orquestación con Docker.  
+- **[printf_42](https://github.com/lgomez-h/printf_42)** – Reimplementación de printf en C.  
+- **[cpp_08](https://github.com/lgomez-h/cpp_08)** – Módulo de C++ (STL, templates y excepciones).
 
 ---
 
 ## 🎯 Buscando
-Oportunidades de trabajo **junior** o **prácticas** en desarrollo de software.
+Oportunidades **junior** o **prácticas** en desarrollo de software.
 
 ---
 
 ## 📫 Contacto
 - **Email:** ljaviergh77@gmail.com  
-- **LinkedIn:** Luis Javier Gómez Hernández
+- **LinkedIn:** *(pásame la URL exacta y lo agrego como link)*
 
 ---
 

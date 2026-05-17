@@ -34,7 +34,7 @@ Busco oportunidades para crecer en desarrollo de software.
 - [cpp_08](https://github.com/lgomez-h/cpp_08)
 
 ## Salesforce
-- (puedo añadir aquí cursos, badges o proyectos si tienes)
+- Certificado Salesforce Platform Foundations
 
 ## Linux
 - [Born2BeRoot](https://github.com/lgomez-h/born2beroot)

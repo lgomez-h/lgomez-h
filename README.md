@@ -5,12 +5,12 @@ Busco oportunidades para crecer en desarrollo de software.
 
 ---
 
-## 🧰 Skills
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=user%3Algomez-h+language%3AC)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3Algomez-h+language%3AC%2B%2B)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://github.com/search?q=user%3Algomez-h+salesforce)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/search?q=user%3Algomez-h+linux)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user%3Algomez-h+git)
+## 🧰 Skills (visual)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#proyectos-en-c)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#proyectos-en-c-1)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#salesforce)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#linux)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#git)
 
 ## 🚀 Proyectos destacados
 
@@ -23,7 +23,26 @@ Busco oportunidades para crecer en desarrollo de software.
 - **[cpp_08](https://github.com/lgomez-h/cpp_08)** – Módulo de C++ (STL, templates y excepciones).
 
 ---
+## Proyectos en C
+- [libft](https://github.com/lgomez-h/libft)
+- [get_next_line](https://github.com/lgomez-h/get_next_line)
+- [pipex](https://github.com/lgomez-h/pipex)
+- [so_long](https://github.com/lgomez-h/so_long)
+- [printf_42](https://github.com/lgomez-h/printf_42)
 
+## Proyectos en C++
+- [cpp_08](https://github.com/lgomez-h/cpp_08)
+
+## Salesforce
+- (puedo añadir aquí cursos, badges o proyectos si tienes)
+
+## Linux
+- [Born2BeRoot](https://github.com/lgomez-h/born2beroot)
+- [Inception](https://github.com/lgomez-h/inception)
+
+## Git
+- [Inception](https://github.com/lgomez-h/inception)
+- [pipex](https://github.com/lgomez-h/pipex)
 ## 🎓 Formación en 42
 Me formé en [42 Urduliz Fundación Telefónica](https://www.42urduliz.com), una escuela de programación basada en aprendizaje **intensivo y práctico**.  
 Su pedagogía es **peer‑to‑peer** (entre compañeros), sin clases tradicionales ni profesores, y con un enfoque en proyectos reales.  

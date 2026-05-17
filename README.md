@@ -5,7 +5,7 @@ Busco oportunidades para crecer en desarrollo de software.
 
 ---
 
-## 🧰 Skills (visual)
+## 🧰 Skills
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=user%3Algomez-h+language%3AC)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3Algomez-h+language%3AC%2B%2B)
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://github.com/search?q=user%3Algomez-h+salesforce)

@@ -1,6 +1,6 @@
 # 👋 Hola, soy Javier Gómez
 
-Desarrollador en formación con foco en **C/C++** y **Salesforce Platform Foundation**.  
+Desarrollador en formación con foco en **C/C++** y **Salesforce Platform**.  
 Busco oportunidades para crecer en desarrollo de software.
 
 ---
@@ -34,13 +34,13 @@ Esto fomenta la **autonomía**, el **pensamiento crítico** y la **resolución d
 ---
 
 ## 🎯 Buscando
-Oportunidades **junior** o **prácticas** en desarrollo de software.
+Oportunidades **junior** en desarrollo de software.
 
 ---
 
 ## 📫 Contacto
 - **Email:** ljaviergh77@gmail.com  
-- **LinkedIn:** *(pásame la URL exacta y lo agrego como link)*
+- **LinkedIn:**
 
 ---
 

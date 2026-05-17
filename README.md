@@ -26,6 +26,13 @@ Busco oportunidades para crecer en desarrollo de software.
 
 ---
 
+## 🎓 Formación en 42
+Me formé en **42**, una escuela de programación basada en aprendizaje **intensivo y práctico**.  
+Su pedagogía es **peer‑to‑peer** (entre compañeros), sin clases tradicionales ni profesores, y con un enfoque en proyectos reales.  
+Esto fomenta la **autonomía**, el **pensamiento crítico** y la **resolución de problemas**, además de habilidades clave como la colaboración y la revisión de código.
+
+---
+
 ## 🎯 Buscando
 Oportunidades **junior** o **prácticas** en desarrollo de software.
 
@@ -33,7 +40,7 @@ Oportunidades **junior** o **prácticas** en desarrollo de software.
 
 ## 📫 Contacto
 - **Email:** ljaviergh77@gmail.com  
-- **LinkedIn:** *(pásame la URL exacta y lo agrego como link)*
+- **LinkedIn:**
 
 ---
 

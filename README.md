@@ -9,6 +9,14 @@
 ##  Sobre mí
 
 Desarrollador de software especializado en Salesforce, certificado como Salesforce Platform Developer I y formado en 42 Urduliz.
+Actualmente continúo ampliando mis conocimientos mediante el desarrollo de aplicaciones Salesforce utilizando:
+
+• Apex
+• Lightning Web Components (LWC)
+• SOQL
+• Salesforce Flows
+• Queueable Apex
+• Git
 
 ---
 

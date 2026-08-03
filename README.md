@@ -1,7 +1,14 @@
-# 👋 Hola, soy Luis Javier Gómez
+# Luis Javier Gómez Hernández
 
-Desarrollador en formación con foco en **C/C++** y **Salesforce Platform** y conocimientos en **Redes y Sistemas**  
-Busco oportunidades para crecer en desarrollo de software.
+### Software Developer | Salesforce Platform Developer I
+
+> Con una sólida base en desarrollo de software y una amplia experiencia en gestión empresarial, afronto cada proyecto con un enfoque estructurado, orientado a resolver problemas reales y aportar valor al cliente.
+
+---
+
+## 👋 Sobre mí
+
+Soy desarrollador de software especializado en Salesforce...
 
 ---
 

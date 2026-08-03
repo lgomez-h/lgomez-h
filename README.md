@@ -26,16 +26,7 @@ Aplicación Salesforce para la gestión del alquiler de vehículos desarrollada 
 
 Repositorio → 🔗 [AlquilaVehículo](https://github.com/lgomez-h/alquilavehiculo)
 
-
-
-## 🧰 Skills (visual)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#proyectos-en-c)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#proyectos-en-c-1)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#salesforce)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#linux)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#git)
-
-## 🚀 Proyectos destacados
+##  Otros proyectos
 
 - **[get_next_line](https://github.com/lgomez-h/get_next_line)** – Lectura de archivos línea por línea en C.  
 - **[libft](https://github.com/lgomez-h/libft)** – Librería base en C (reimplementación de funciones estándar).  
@@ -46,50 +37,29 @@ Repositorio → 🔗 [AlquilaVehículo](https://github.com/lgomez-h/alquilavehic
 - **[cpp_08](https://github.com/lgomez-h/cpp_08)** – Módulo de C++ (STL, templates y excepciones).
 
 ---
-## Proyectos en C
-- [libft](https://github.com/lgomez-h/libft)
-- [get_next_line](https://github.com/lgomez-h/get_next_line)
-- [pipex](https://github.com/lgomez-h/pipex)
-- [so_long](https://github.com/lgomez-h/so_long)
-- [printf_42](https://github.com/lgomez-h/printf_42)
 
-## Proyectos en C++
-- [cpp_08](https://github.com/lgomez-h/cpp_08)
+## Formación en 42
 
-## Salesforce
-- Certificado Salesforce Platform Foundations
+Me formé en [42 Urduliz Fundación Telefónica](https://www.42urduliz.com), una escuela de programación basada en un aprendizaje intensivo y práctico.
 
-## Linux
-- [Born2BeRoot](https://github.com/lgomez-h/born2beroot)
-- [Inception](https://github.com/lgomez-h/inception)
-
-## Git
-- [Inception](https://github.com/lgomez-h/inception)
-- [pipex](https://github.com/lgomez-h/pipex)
-
-## 🎓 Formación en 42
-Me formé en [42 Urduliz Fundación Telefónica](https://www.42urduliz.com), una escuela de programación basada en aprendizaje **intensivo y práctico**.  
-Su pedagogía es **peer‑to‑peer** (entre compañeros), sin clases tradicionales ni profesores, y con un enfoque en proyectos reales.  
-Esto fomenta la **autonomía**, el **pensamiento crítico** y la **resolución de problemas**, además de habilidades clave como la colaboración y la revisión de código.
+Su metodología **peer-to-peer** se centra en el desarrollo de proyectos reales, fomentando la autonomía, el pensamiento crítico, el trabajo en equipo y la capacidad para resolver problemas complejos.
 
 🔗 **Ranking WURI 2026:** [ver noticia](https://www.42urduliz.com/actualidad/ranking-wuri-2026/)
 
-## 🎯 Buscando
-Oportunidades **junior** en desarrollo de software.
+##  Buscando
+
+Actualmente busco oportunidades como Junior Salesforce Developer o Software Developer, donde pueda seguir creciendo técnicamente y aportar soluciones de calidad dentro de un equipo.
 
 ---
 
-## 📫 Contacto
+##  Contacto
 - **Email:** ljaviergh77@gmail.com  
 - **LinkedIn:**
 
 ---
 
-## 🌍 Idiomas
+##  Idiomas
 - Español nativo  
-- Inglés básico
+- Inglés funcional (lectura de documentación técnica y conversación básica).
 
 ---
-
-## 🌿 Intereses
-Deporte · Tecnología · Naturaleza

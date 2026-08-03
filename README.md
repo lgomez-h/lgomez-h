@@ -18,7 +18,14 @@ Actualmente continúo ampliando mis conocimientos mediante el desarrollo de apli
 • Queueable Apex
 • Git
 
----
+## Proyecto destacado
+
+AlquilaVehiculo
+
+Aplicación Salesforce para la gestión del alquiler de vehículos desarrollada siguiendo una arquitectura Trigger–Handler–Service y buenas prácticas de desarrollo
+Repositorio →
+
+
 
 ## 🧰 Skills (visual)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#proyectos-en-c)

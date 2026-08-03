@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Sobre mí
+##  Sobre mí
 
 Desarrollador de software especializado en Salesforce, certificado como Salesforce Platform Developer I y formado en 42 Urduliz.
 
